@@ -29,7 +29,7 @@ Projenin yenilikçi yönü:
   -Gamification
 
 Kütüphaneler ve Modüller :
-  PIL, Os, Keras, Numpy, Math, Matplotlib.pyplot, Random, Glob, Pandas,
+  PIL, Os, Keras, Numpy, Math, Matplotlib.pyplot, Random, Glob, Pandas, cv2
   layers (from keras)
   models (from keras)
   mnist (from keras.datasets)
@@ -39,4 +39,8 @@ Kütüphaneler ve Modüller :
   ImageDataGenerator (from keras.preprocessing.image)
   backend (from keras)
   gc (Garbage Collector)
+  load_model (from tensorflow.keras.models)
+  ImageDataGenerator (from keras.preprocessing.image)
+  
+  
 
