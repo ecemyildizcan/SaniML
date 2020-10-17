@@ -1,8 +1,19 @@
 # SaniML
 Oyunlaştırılmış bir sosyal sorumluluk projesi
 
-Grup : SaniML
 
+Dosyalara ait açıklama: 
+
+        data.zip içerisinde:
+                saniml-data dosyasında işlenmemiş ve split edilmemiş data bulunmaktadır.
+                saniml-train-test-validation dosyasında resize edilmiş ve split edilmiş işlenmeye hazır data bulunmaktadır.
+        saniml-demo-video.MOV:
+                oluşturulan demo tanıtım videosudur.
+        saniml.xd:
+                saniml-demo-video.MOV un oluşturulduğu adebe xd çalışmasıdır.
+        
+        
+Grup : SaniML
 Takım : 
 
         Arzu Yılmaz            (yilmazarzu.98@gmail.com)
